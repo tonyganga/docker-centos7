@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/tonyganga/docker-centos7.svg?branch=master)](https://travis-ci.org/tonyganga/docker-centos7) [![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r/booleanismaybe/docker-centos7/)
+
 # CentOS 7 Ansible Molecule Test Image
 
-CentOS 7 Docker image for testing [Ansible](https://www.ansible.com/) with [Molecule](https://molecule.readthedocs.io/en/latest/#).
+CentOS 7 Docker image for testing [Ansible](https://www.ansible.com/) with [Molecule](https://molecule.readthedocs.io/en/latest/#)
 
 # Build
 
